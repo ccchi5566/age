@@ -13,4 +13,6 @@ elif driving == '沒有':
 		print('可以去考駕照')
 	else:
 		print('快可以考了')
+else:
+	print('不要亂輸入')
 
